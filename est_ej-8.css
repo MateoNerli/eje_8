@@ -1,0 +1,59 @@
+
+.caja{
+    width: 1000px;
+    height: 1000px;
+    display: flex;
+    background-color: aqua;
+    border: 5em;
+    border-radius: 5px;
+    background-color: gray;
+    position: absolute;
+    left: 250px;
+}
+
+#Textol {
+    width: 80%;
+    float: left;
+    font-family: Verdana;
+    font-size: 350%;
+    text-align: justify;
+}
+
+#texto2 {
+    width: 75%;
+    position:absolute;
+    top: 700px;
+    left: 200px;
+}
+
+#p_texto1 {
+    text-align: center;
+    margin-bottom: 1em;
+    font-size: 50px;
+}
+
+#p_texto2 {
+    text-align: center;
+    position:absolute;
+    top: 700px;
+    left: 200px;
+}
+
+#imagen1 {
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    left: 180px;
+}
+#imagen2 {
+    width: 250px;
+    height: 250px;
+    position:absolute;
+    top: 750px;
+    left: 550px;
+
+}
+
+#separacion {
+    clear: both;
+}
